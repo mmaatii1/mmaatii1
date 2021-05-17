@@ -66,7 +66,7 @@
 
 <br/>  
 
-<div>
+<div align="center">
 <img src = "https://komarev.com/ghpvc/?username=mmaatii1&&style=flat-square"/>
 </div>
 <br />
