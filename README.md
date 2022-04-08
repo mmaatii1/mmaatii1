@@ -1,18 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Mateusz, An IT student who's trying to get as much knowledge as he can 🚀</div>  
   
 
-- 🔭 I’m currently working on [Dart films/TV series app](https://github.com/mmaatii1/Dart-films-series-app)  
-  
-
-- 🌱 I’m currently learning **Dart&Flutter, some JS as well as Java**
-  
-
-- ❓ Ask me about anything related to self-dev :D 
+- 🌱 I’m currently learning **.NET environment**
   
 
 - 📫 How to reach me **mateusz.szreder00@gmail.com**
